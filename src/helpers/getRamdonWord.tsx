@@ -7,7 +7,7 @@ const words: string[] = [
   "jardin",
   "silla",
   "luz",
-  "arco iris",
+  "arcoiris",
   "montaña",
   "felicidad",
   "libro",
